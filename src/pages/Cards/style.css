@@ -1,0 +1,23 @@
+/* styles.css */
+.card-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .card {
+    width: 30%; /* Ширина каждой карточки */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Дополнительные стили по желанию */
+  .card h1 {
+    margin-top: 0;
+  }
+  
+  .card p {
+    margin-bottom: 0;
+  }
+  
